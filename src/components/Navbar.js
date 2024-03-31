@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://blogs.vercel.app/"
+                href="https://sites.google.com/view/lynette-nyambura-mwangi/home"
                 target="_blank"
                 rel="noreferrer"
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                <ImBlog style={{ marginBottom: "2px" }} /> capstone project/Photoessay
               </Nav.Link>
             </Nav.Item>
 
